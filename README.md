@@ -1,1 +1,1 @@
-# Add any pr and get ur T-Shirt & tree
+# Add any pull request and get your T-Shirt through hacktoberfest .
